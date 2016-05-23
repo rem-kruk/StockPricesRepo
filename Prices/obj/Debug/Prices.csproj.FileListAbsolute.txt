@@ -78,3 +78,163 @@ C:\Users\Kruk\documents\visual studio 2015\Projects\PricesSolution\Prices\bin\Mi
 C:\Users\Kruk\documents\visual studio 2015\Projects\PricesSolution\Prices\obj\Debug\Prices.csprojResolveAssemblyReference.cache
 C:\Users\Kruk\documents\visual studio 2015\Projects\PricesSolution\Prices\obj\Debug\Prices.dll
 C:\Users\Kruk\documents\visual studio 2015\Projects\PricesSolution\Prices\obj\Debug\Prices.pdb
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\roslyn\csc.exe
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\roslyn\vbc.exe
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Prices.dll.config
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Prices.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Prices.pdb
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Antlr3.Runtime.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Devart.Data.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Devart.Data.MySql.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Devart.Data.MySql.Entity.EF6.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\EntityFramework.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\EntityFramework.SqlServer.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\MySql.Data.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\MySql.Data.Entity.EF5.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\MySql.Fabric.Plugin.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\MySql.Web.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Newtonsoft.Json.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Owin.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.Helpers.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.Mvc.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.Optimization.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.Razor.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.WebPages.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\WebGrease.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Devart.Data.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Devart.Data.MySql.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Devart.Data.MySql.Entity.EF6.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.Helpers.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.Mvc.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.Optimization.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.Razor.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.WebPages.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Antlr3.Runtime.pdb
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Newtonsoft.Json.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\EntityFramework.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\EntityFramework.SqlServer.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\obj\Debug\Prices.csprojResolveAssemblyReference.cache
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\obj\Debug\Prices.dll
+C:\Users\Kruk\Downloads\StockPricesRepo-master\StockPricesRepo-master\Prices\obj\Debug\Prices.pdb
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\roslyn\csc.exe
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\roslyn\vbc.exe
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Prices.dll.config
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Prices.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Prices.pdb
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Antlr3.Runtime.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Devart.Data.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Devart.Data.MySql.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Devart.Data.MySql.Entity.EF6.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\EntityFramework.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\EntityFramework.SqlServer.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\MySql.Data.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\MySql.Data.Entity.EF5.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\MySql.Fabric.Plugin.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\MySql.Web.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Newtonsoft.Json.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Owin.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.Helpers.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.Mvc.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.Optimization.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.Razor.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.WebPages.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\WebGrease.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Devart.Data.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Devart.Data.MySql.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Devart.Data.MySql.Entity.EF6.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.Helpers.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.Mvc.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.Optimization.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.Razor.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.WebPages.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Antlr3.Runtime.pdb
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Newtonsoft.Json.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\EntityFramework.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\EntityFramework.SqlServer.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\obj\Debug\Prices.csprojResolveAssemblyReference.cache
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\obj\Debug\Prices.dll
+C:\Users\Kruk\Documents\Visual Studio 2015\Projects\StockPrices\Prices\obj\Debug\Prices.pdb
