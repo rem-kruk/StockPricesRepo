@@ -1,0 +1,62 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+    @model IEnumerable<PricesV2.Models.StockPrice>
+    <script>
+    var temp1 = '@ViewBag.Data';
+    var data = JSON.parse('@ViewBag.Data');
+
+    </script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+    google.charts.load('current', { 'packages': ['corechart'] });
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var chartData = google.visualization.arrayToDataTable(data);
+
+        var options = {
+          title: 'Wartość funduszu inwestycyjnego',
+          curveType: 'none',
+          legend: { position: 'bottom' }
+
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+        chart.draw(chartData, options);
+      }
+    </script>
+
+   <p> Data od: Data do: </p>
+@using(Html.BeginForm("Index", "Home")) {
+        @Html.TextBox("data1", "", new { type = "date" })
+        @Html.TextBox("data2", "", new { type = "date" })
+       
+            <input id="Submit1" type="submit" value="pokaż" />
+}
+<div id="curve_chart" style="width: 900px; height: 500px"></div>
+<div class="row">
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>   
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.price)
+                </td>
+            </tr>
+        }
+    </table>
+</div>

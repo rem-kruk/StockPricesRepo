@@ -13,30 +13,18 @@ namespace PricesV2.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index(string drop1, string drop2)
-        {
-            drop1 = Helpers.PrepareString(drop1);
-            drop2 = Helpers.PrepareString(drop2);
-            string connectionString = "Database=StockPricesdb;Data Source=eu-cdbr-azure-west-d.cloudapp.net;User Id=be5feffcd3ff04;Password=73491b31";
+        string connectionString = "Database=StockPricesdb;Data Source=eu-cdbr-azure-west-d.cloudapp.net;User Id=be5feffcd3ff04;Password=73491b31";
 
+        public ActionResult Index(string data1,string data2)
+        {
             MySqlConnection connection = new MySqlConnection(connectionString);
             connection.Open();
-            MySqlCommand command = connection.CreateCommand();
-            command.CommandText = @"SELECT * FROM prices";
-            MySqlDataReader reader = command.ExecuteReader();
 
             List<StockPrice> data = new List<StockPrice>();
-            List<SelectListItem> dropdown = new List<SelectListItem>();
-            while (reader.Read())
-            {
-                StockPrice one = new StockPrice { date = reader.GetDateTime(0), price = reader.GetFloat(1) };
-                dropdown.Add(new SelectListItem() { Value = one.date.ToString("yyyy/MM/dd"), Text = one.date.ToString("yyyy/MM/dd") });
-            }
-            reader.Close();
 
-            ViewBag.DropDownValues = new SelectList(dropdown, "Value", "Text");
-            command.CommandText = "SELECT * FROM prices WHERE date BETWEEN " + "'" + drop1 + "'" + " AND " + "'" + drop2 + "'";
-            reader = command.ExecuteReader();
+            MySqlCommand command = connection.CreateCommand();
+            command.CommandText = "SELECT * FROM prices WHERE date BETWEEN " + "'" + data1 + "'" + " AND " + "'" + data2 + "'";
+            MySqlDataReader reader = command.ExecuteReader();
             while (reader.Read())
             {
                 StockPrice one = new StockPrice { date = reader.GetDateTime(0), price = reader.GetFloat(1) };
@@ -56,6 +44,14 @@ namespace PricesV2.Controllers
             ViewBag.Data = new HtmlString(dataStr);
             return View(data);
         }
-  
+
+
+        public ActionResult compare([Bind(Include = "Amount,Percentage,DateFrom,DateTo")] InvestmentAndStock @i)
+        {
+
+           ViewBag.income = new HtmlString( Helpers.DataChart(connectionString, i.DateFrom, i.DateTo, i.Amount,i.Percentage) );
+
+            return View();
+        }
     }
 }
