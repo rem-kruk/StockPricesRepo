@@ -23,7 +23,7 @@ namespace PricesV2.Utilities
                 totalAmount += totalAmount * (percentage / 100);
             }
             income = totalAmount - amount;
-            return income;
+            return Math.Round(income,2);
         }
 
         private static int CountYears(DateTime from, DateTime to)
@@ -33,7 +33,7 @@ namespace PricesV2.Utilities
             ( (from.Month == to.Month) && (to.Day >= from.Day) ) ) ? 1 : 0);
         }
 
-        internal static string DataChart(String connectionString, DateTime dateFrom, DateTime dateTo, float amount,float percentage)
+        internal static string DataChartIncome(String connectionString, DateTime dateFrom, DateTime dateTo, float amount,float percentage)
         {
             float income = 0;
             float valueTo = 0;
@@ -64,7 +64,7 @@ namespace PricesV2.Utilities
                 dateTo = reader.GetDateTime(0);
                 int numberOfActions = (int)(amount / valueFrom);
                 if (valueFrom != 0) income = (numberOfActions * valueTo) - (numberOfActions * valueFrom);
-                ArrayList elem = new ArrayList { reader.GetDateTime(0).ToString("yyyy/MM/dd"), income,InvestmentIncome(dateFrom,dateTo,amount,percentage)};
+                ArrayList elem = new ArrayList { reader.GetDateTime(0).ToString("yyyy/MM/dd"), Math.Round(income,2),InvestmentIncome(dateFrom,dateTo,amount,percentage)};
                 dataChart.Add(elem);
             }
             reader.Close();
@@ -72,6 +72,6 @@ namespace PricesV2.Utilities
 
             string dataStr = JsonConvert.SerializeObject(dataChart, Formatting.None);
             return dataStr;
-        }
+        }     
     }
 }

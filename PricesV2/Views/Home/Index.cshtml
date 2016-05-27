@@ -28,22 +28,42 @@
       }
     </script>
 
-   <p> Data od: Data do: </p>
-@using(Html.BeginForm("Index", "Home")) {
-        @Html.TextBox("data1", "", new { type = "date" })
-        @Html.TextBox("data2", "", new { type = "date" })
-       
-            <input id="Submit1" type="submit" value="pokaż" />
+@using (Html.BeginForm("Index", "Home"))
+{
+    <div class="form-horizontal">
+        <hr />
+        <div class="form-group">
+            @Html.Label("Data od:", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBox("data1", "", new { type = "date" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Data od:", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+               @Html.TextBox("data2", "", new { type = "date" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Przetwórz dane" class="btn btn-default" />
+            </div>
+        </div>
+ 
+    </div>
 }
-<div id="curve_chart" style="width: 900px; height: 500px"></div>
+<div id="curve_chart" style="width: 1000px; height: 600px"></div>
+
 <div class="row">
     <table class="table">
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.date)
+                @Html.DisplayName("Data:")
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.price)
+                @Html.DisplayName("Wartość funduszu inwestycyjnego:")
             </th>   
             <th></th>
         </tr>
