@@ -20,11 +20,7 @@ namespace PricesV2.Models
         [Required(ErrorMessage = "Pole jest wymagane")]
         public float Amount { get; set; }
 
-        [Required(ErrorMessage = "Pole jest wymagane")]
         public float Percentage { get; set; }
 
-        public float IncomeFromInvestment { get; set; }
-
-        public float IncomeFromStock { get; set; }
     }
 }

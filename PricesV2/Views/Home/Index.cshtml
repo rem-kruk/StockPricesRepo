@@ -16,7 +16,7 @@
         var chartData = google.visualization.arrayToDataTable(data);
 
         var options = {
-          title: 'Wartość funduszu inwestycyjnego',
+          title: 'Wartość funduszu inwestycyjnego [zł]',
           curveType: 'none',
           legend: { position: 'bottom' }
 
@@ -40,7 +40,7 @@
         </div>
 
         <div class="form-group">
-            @Html.Label("Data od:", htmlAttributes: new { @class = "control-label col-md-2" })
+            @Html.Label("Data do:", htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
                @Html.TextBox("data2", "", new { type = "date" })
             </div>

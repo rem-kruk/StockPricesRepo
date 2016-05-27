@@ -25,8 +25,8 @@
         <div class="form-group">
             @Html.Label("Oprocentowanie lokaty (w skali roku)", htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.Percentage, new { htmlAttributes = new { @class = "form-control", @Value = "Np. 2.3" } })
-                @Html.ValidationMessageFor(model => model.Percentage, "", new { @class = "text-danger" })
+                @Html.EditorFor(model => model.Percentage, new { htmlAttributes = new { @class = "form-control"} })
+                @Html.ValidationMessageFor(model => model.Percentage, "Prawidłowy format np. 2.3")
             </div>
         </div>
 
@@ -65,7 +65,7 @@
         var chartData = google.visualization.arrayToDataTable(data);
 
         var options = {
-          title: 'Zysk z ulokowanych pieniędzy w złotych',
+          title: 'Zysk z ulokowanych pieniędzy [zł]',
           curveType: 'none',
           legend: { position: 'bottom' }
 
